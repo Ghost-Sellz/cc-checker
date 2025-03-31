@@ -36,7 +36,7 @@ This script checks credit card validity using the Stripe API. It reads card deta
    ```
 2. Run the script:
    ```bash
-   python checker.py
+   python main.py
    ```
 3. Results will be saved in `results.txt`.
 
