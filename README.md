@@ -48,7 +48,7 @@ Each line in `results.txt` will show the card status:
 ```
 
 ## Warning ⚠️
-- **i am NOT hold accountable for what you do whit this**
+- **i am NOT hold accountable for what you do with this tool**
 
 ## License
 MIT License
